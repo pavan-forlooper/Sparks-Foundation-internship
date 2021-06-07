@@ -1,0 +1,15 @@
+weaptype1_txt,killed,wounded
+Firearms,174894,77219
+Explosives,174277,385904
+Unknown,42620,17575
+Melee,10575,5495
+Incendiary,5476,5530
+"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",3184,17121
+Chemical,624,13825
+Other,123,105
+Sabotage Equipment,83,286
+Biological,9,805
+Radiological,2,4
+Fake Weapons,1,0
+Grand Total,411868,523869
+,,
